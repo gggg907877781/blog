@@ -22,7 +22,7 @@
 		<jstl.version>1.2</jstl.version>
 		<mybatis.version>2.0.1</mybatis.version>
 		<dhcp.version>1.4</dhcp.version>
-		<shiro.version>1.2.6</shiro.version>
+		<shiro.version>1.7.1</shiro.version>
 		<jedis.version>2.9.0</jedis.version>
 		<log4j2.version>2.9.1</log4j2.version>
 	</properties>
